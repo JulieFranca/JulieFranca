@@ -1,40 +1,6 @@
 
-<link href="https://fonts.googleapis.com/css2?family=Quintessential:wght@400;700&family=Lora:wght@400;700&display=swap" rel="stylesheet">
- 
-<style>
-    * {
-        font-family: Quintessential;
-    }   
-    
-    .integration-container {
-        font-family: Arial, sans-serif;
-        line-height: 1.6;
-        color: #333;
-        background-color: #f9f9f9;
-        padding: 15px;
-        border-radius: 8px;
-        border-left: 5px solid #007acc;
-    }
-  
-    .integration-title {
-        font-size: 22px;
-        font-weight: bold;
-        color: #0056b3;
-    }
-    .integration-subtitle {
-        font-size: 18px;
-        font-weight: bold;
-        margin-top: 10px;
-    }
-    .integration-list {
-        padding-left: 20px;
-    }
-    .integration-list li {
-        margin-bottom: 8px;
-    }
-</style>
 
-<h1> 👋 <b>Hello, I'm Julie França Souza!</b></h1>
+# 👋 **Hello, I'm Julie França Souza!**
 
 **Pronouns:** She/Her  
 **Software Engineer | Full Stack Developer | Integration Specialist**  
@@ -49,13 +15,9 @@
 - ⚡ **Fun fact:** I generated around a 30% reduction in manual processes by integrating 3DEXPERIENCE with an ERP system. No more spreadsheets or paper!  
 
 **📫 How to reach me:**  
-<table>
-  <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/juliefranca" title="LinkedIn"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin-icon.svg" alt="LinkedIn" width="48px" height="48px"></a></td>
-    <td align="center"><a href="mailto:juliefrancasouza@gmail.com" title="Gmail"><img src="https://github.com/get-icon/geticon/raw/master/icons/google-gmail.svg" alt="Gmail" width="48px" height="48px"></a></td>
-    <td align="center"><a href="https://github.com/JulieFranca" title="GitHub"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-octocat.svg" alt="GitHub" width="48px" height="48px"></a></td>
-  </tr>
-</table>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/juliefranca)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/JulieFranca)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:juliefrancasouza@gmail.com)
 
 ---
 
@@ -68,14 +30,8 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind,react,angular,vue,wordpress,electron,flutter,kotlin&perline=12)]()
 
 ### **DevOps & Tools**  
-[![My Skills](https://skillicons.dev/icons?i=jenkins,docker,kubernetes,postman,git&perline=11)]()
-<table>
-  <tr>
-    <td align="center"><a href=""><img src="https://github.com/get-icon/geticon/raw/master/icons/kafka.svg" width="48px"></a></td>
-    <td align="center"><a href=""><img src="https://github.com/get-icon/geticon/raw/master/icons/rabbitmq.svg" width="48px"></a></td>
-    <td align="center"><a href=""><img src="https://www.svgrepo.com/show/372946/scrum.svg" width="50px"></a></td>
-  </tr>
-</table>
+### **DevOps & Tools**  
+[![My Skills](https://skillicons.dev/icons?i=jenkins,docker,kubernetes,postman,git,kafka,rabbitmq&perline=7)]()
 
 ### **Other Technologies**  
 <a href="" title="SolidWorks"><img src="https://plmgroup.eu/wp-content/uploads/SW-300x277.png" alt="SolidWorks" width="48px" height="48px"></a>
