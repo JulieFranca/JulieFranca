@@ -1,5 +1,4 @@
-<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Lora:wght@400;700&display=swap" rel="stylesheet"> 
- 
+
 <link href="https://fonts.googleapis.com/css2?family=Quintessential:wght@400;700&family=Lora:wght@400;700&display=swap" rel="stylesheet">
  
 <style>
@@ -166,6 +165,7 @@
 ## 🌟 **My Projects**  
 
 ### 1. **Conventional Commits Generator React**  
+[![My Skills](https://skillicons.dev/icons?i=react&perline=12)]()
 
 <div class="integration-container">
   <p>The <b>Conventional Commits Generator</b> is a <b>React</b> application developed to facilitate the creation of commit messages following the <b>Conventional Commits</b> standard. This convention is widely used to maintain a clear and structured commit history. The application features an intuitive interface, support for multiple languages, dark mode, and allows customization of the order of fields that compose the commit message.</p>
