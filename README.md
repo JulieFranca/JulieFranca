@@ -17,7 +17,8 @@
 **📫 How to reach me:**  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/juliefranca)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/JulieFranca)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:juliefrancasouza@gmail.com)
+<a href="mailto:juliefrancasouza@gmail.com" title="SolidWorks"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" alt="SolidWorks" width="48px" height="48px"></a>
+
 
 ---
 
@@ -30,11 +31,10 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind,react,angular,vue,wordpress,electron,flutter,kotlin&perline=12)]()
 
 ### **DevOps & Tools**  
-### **DevOps & Tools**  
 [![My Skills](https://skillicons.dev/icons?i=jenkins,docker,kubernetes,postman,git,kafka,rabbitmq&perline=7)]()
 
 ### **Other Technologies**  
-<a href="" title="SolidWorks"><img src="https://plmgroup.eu/wp-content/uploads/SW-300x277.png" alt="SolidWorks" width="48px" height="48px"></a>
+
 <a href="" title="3DEXPERIENCE"><img src="https://store.trimech.com/wp-content/uploads/2022/08/3DS_2020_3DEXPERIENCE_COMPASS_WHITE_RVB-870x1024.png" alt="3DEXPERIENCE" width="48px" height="48px"></a>
 <a href="CI/CD" title="CI/CD"><img src="https://www.mabl.com/hubfs/CICDBlog.png" alt="CI/CD" width="60px" height="48px"></a>
 <a href="TDD" title="TDD"><img src="https://static.thenounproject.com/png/106175-200.png" alt="TDD" width="48px" height="48px"></a>
