@@ -14,6 +14,14 @@
 
 - ⚡ **Fun fact:** I generated around a 30% reduction in manual processes by integrating 3DEXPERIENCE with an ERP system. No more spreadsheets or paper!  
 
+### 🎭 **About Me: Where Code Meets Creativity**  
+Beyond tech, I live at the intersection of logic and imagination:  
+- **🎲 RPG Enthusiast:** Collector of systems like *Tormenta 20* (Brazilian pride! 🇧🇷) and *Call of Cthulhu*. I hunt indie RPG gems on Catarse and believe homebrew rules deserve a "nat 20" roll.  
+- **✨ Cosplay Artistry:** Started in 2022 as therapy during my transition, now a passion for reinventing characters (villains FTW! 🖤). Specialize in makeup storytelling and *"MacGyver-approved"* prop hacks.  
+- **⚡ Parallels:** Approach coding like RPG campaigns – improvisation, creative problem-solving, and *"let’s debug this boss fight!"* energy.  
+
+*P.S.: If you think software architecture and dungeon mastering require the same chaos tolerance, let’s chat over virtual coffee! ☕*  
+
 **📫 How to reach me:**  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/juliefranca)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/JulieFranca)
